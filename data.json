@@ -16036,5 +16036,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506665&idx=1&sn=d776fe3468df87da311794720e5bea05": "每周网安资讯 （7.8-7.14）|Ibm Concert_software存在将系统数据暴露到未授权控制的范围漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535525&idx=2&sn=d21cfd9f295a3a180c57153067c0cf10": "CNNVD 紧急通报，微软爆多个安全漏洞！",
     "https://mp.weixin.qq.com/s?__biz=MzkxNjc0ODA3NQ==&mid=2247484073&idx=1&sn=10cba60d947ef1c2c9a8e764c6ef1076": "最近刷屏的“微信XSS漏洞”原理是什么？",
-    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=1&sn=4bbd11a17c961421e365773e0d458184": "CNVD漏洞周报2025年第26期"
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=1&sn=4bbd11a17c961421e365773e0d458184": "CNVD漏洞周报2025年第26期",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483889&idx=1&sn=49db58752bf20b6e1a322dc5c9a9e614": "东胜物流软件GetDataListCA接口存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788788&idx=1&sn=c7fa538499e5b03daa0e74f470f92434": "3.5亿辆汽车、10亿设备暴露于一键蓝牙RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247556779&idx=1&sn=e40f6561075f5bc2dd2ef0f94ccf1a3b": "3.5亿辆汽车、10亿设备暴露于一键蓝牙RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490678&idx=1&sn=2bc385ae9c50e43f2cb6a1d804168153": "【工具】afrog 高性能Web漏洞扫描器",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506973&idx=1&sn=d258cb8eb078305c2c2e3a6e9ac1b51a": "RXSS! on Mercedes-Benz",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503607&idx=1&sn=44581e3d24968215d02fb7b63ed254d6": "安全热点周报：Fortinet 公开 FortiWeb 中的严重预身份验证 RCE 漏洞"
 }
