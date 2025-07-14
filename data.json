@@ -16020,5 +16020,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483898&idx=1&sn=479ca01aab6c21e9d19081497f01a809": "孚盟云 Getlcon.aspx 接口存在SQL 注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493250&idx=1&sn=cd317dbe8c78874a262dce46efcc5cc3": "WEB安全盲点 挖洞中的敏感文件泄漏漏洞与利用手法|挖洞技巧",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070639&idx=4&sn=4e7c93291c55d089867addbbd0436070": "【安全圈】Trendyol 披露 Meta 存在漏洞：Prompt Injection 成功率高达 50%",
-    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117105&idx=1&sn=a12c60fab95520633a959552231df442": "Apache HTTP Server 2.4.64发布，修复8个漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117105&idx=1&sn=a12c60fab95520633a959552231df442": "Apache HTTP Server 2.4.64发布，修复8个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247503982&idx=1&sn=0b4f5d87ce51350878b046afc4d40c31": "挖SRC必须知道的25个漏洞提交平台",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492614&idx=1&sn=2d05e9cc7f905932ff7bd4632366746b": "关于打高版本java,cc6复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=2&sn=4f4911a4425e6d7a7ed5b3a283a1dc40": "Wing FTP服务器漏洞技术细节公开后立即遭活跃利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTU3MjA3OQ==&mid=2247485148&idx=1&sn=280d1d4f4a5c5819b526819228c350bf": "这是微信XSS漏洞吗？"
 }
