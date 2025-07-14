@@ -16025,5 +16025,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492614&idx=1&sn=2d05e9cc7f905932ff7bd4632366746b": "关于打高版本java,cc6复现",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=2&sn=4f4911a4425e6d7a7ed5b3a283a1dc40": "Wing FTP服务器漏洞技术细节公开后立即遭活跃利用",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTU3MjA3OQ==&mid=2247485148&idx=1&sn=280d1d4f4a5c5819b526819228c350bf": "这是微信XSS漏洞吗？"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTU3MjA3OQ==&mid=2247485148&idx=1&sn=280d1d4f4a5c5819b526819228c350bf": "这是微信XSS漏洞吗？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491740&idx=1&sn=37e62d91d022d1f13d20907fdef46825": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月11~13日",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485223&idx=1&sn=7cadef856d0360ed2983ea9bd473a955": "Solrs搜索&Shrio鉴权&Log4j日志&CVE历史漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkyMjUxMA==&mid=2247483689&idx=1&sn=0aa653b5743553d1825b5947385aed22": "一个面板的RCE方式",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486502&idx=1&sn=244b3b8eb8dc4d46417d90ab4b5264a2": "微信爆任意打语音和任意发信息漏洞？",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521812&idx=1&sn=5ecc8850e0fa97af3db87933221ead59": "Critical Wing FTP 服务器漏洞 （CVE-2025-47812） 在野外被积极利用"
 }
