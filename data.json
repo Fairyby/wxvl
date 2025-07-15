@@ -16047,5 +16047,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507845&idx=1&sn=ba7dab99c2bbcdc4ee180575e33e2add": "漏洞通告 | 用友U9 Cloud 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492144&idx=1&sn=a97ed21e2e7bc3d25299fec618723370": "金蝶云星空 DevReportService.GetBusinessobjectData.common.kdsvc 远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070655&idx=4&sn=376e25a95b8df163247e3bc4e44ec424": "【安全圈】Kigen eUICC 卡 eSIM 漏洞暴露数十亿物联网设备，攻击者可潜入监控与操控通信",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=3&sn=7a22c6935abca7bdf46bf166aa5bb5d8": "技嘉UEFI固件SMM漏洞使系统面临固件植入和持久控制风险"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=3&sn=7a22c6935abca7bdf46bf166aa5bb5d8": "技嘉UEFI固件SMM漏洞使系统面临固件植入和持久控制风险",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493714&idx=1&sn=f1c1bde700b77c8fa016a4fcce3bd0ca": "漏洞预警 | 泛微e-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493714&idx=2&sn=81e73f9253673a4f7f9d2e49fe4a8bdd": "漏洞预警 | 汉王e脸通智慧园区管理平台反序列化和SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491762&idx=1&sn=29ab889867f7d639faaa54a3dfc2ef2e": "清源SCA社区版｜每一次漏洞判定皆有代码为证",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490431&idx=1&sn=1413a05f807dd28e1228256420189b24": "【高危漏洞预警】Apache Jackrabbit XXE漏洞CVE-2025-53689"
 }
