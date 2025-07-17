@@ -16094,5 +16094,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496130&idx=1&sn=f9bf39ffb23c2b16744cffcc11b43ccd": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531794&idx=2&sn=12cf79e2129fed86722ef157f501769c": "mcp-remote 中存在严重 RCE 漏洞：CVE-2025-6514，威胁 LLM 客户端",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493489&idx=1&sn=d3ef10a1ae3b8c161d7174cb42702fac": "【宝典】针对若依系统nday的常见各种姿势利用",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486206&idx=1&sn=54ac4aeb8ed3a97da9e43223f1b071af": "XBOW 发现Wordpress 任意文件读取漏洞的过程"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486206&idx=1&sn=54ac4aeb8ed3a97da9e43223f1b071af": "XBOW 发现Wordpress 任意文件读取漏洞的过程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486558&idx=1&sn=e150a399f701a2a8c0b490ea631bfa05": "代码审计-Java项目-反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=1&sn=3a91fb3c0b5f85fce1d7dbffc4e55ff9": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531773&idx=2&sn=87c094ebed1fc43d49cbe8426e57d36b": "探索 Node.js 中的零日漏洞：CVE-2025-27210"
 }
