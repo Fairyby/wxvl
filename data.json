@@ -16080,5 +16080,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503462&idx=1&sn=0f722394919e6b8af1e3bb654383e66c": "雷神众测漏洞周报2025.7.7-2025.7.13",
     "https://mp.weixin.qq.com/s?__biz=MjM5ODYyMTM4MA==&mid=2650470013&idx=1&sn=bd91de134dcbad0a5c5482ada536bff4": "配置错误与大模型应用漏洞交织，云上数据安全防线持续承压｜全球云上数据泄露风险分析简报 （第六期）",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324943&idx=2&sn=f92e83da511bb4652e239c42897f2491": "一键获取上万份资料和漏洞情报的资源情报网站",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555471&idx=1&sn=70206928fcf4dcff0f7d8c7eb7aa9e46": "浅谈代码审计+漏洞批量一把梭哈思路"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555471&idx=1&sn=70206928fcf4dcff0f7d8c7eb7aa9e46": "浅谈代码审计+漏洞批量一把梭哈思路",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503624&idx=1&sn=efb918e1db57c9ad9b7deb875cb26da5": "【已复现】LaRecipe 服务器端模板注入漏洞(CVE-2025-53833)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNjQyODY5MA==&mid=2247487268&idx=1&sn=32c18f49eefc14d6b05cb8af3b337109": "【辟谣】微信最新XSS漏洞？1click？真相原来是这样的！",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=2&sn=a02c958b20179cf6beb420d4491d6a11": "【风险提示】VMware多个高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886119&idx=1&sn=04a2b85331e9310f8cd6ae41fdede5da": "攻防演练：如何防护0day漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MjgwMzIxMA==&mid=2247485198&idx=1&sn=66161ec0081b2a7e038030206809bbe9": "Windows 任意文件读取漏洞如何扩大战果？",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=1&sn=ad59955ddfe083c98460da614db3e54e": "【风险通告】Oracle WebLogic Server存在未授权访问漏洞（CVE-2025-30762）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC"
 }
