@@ -16114,5 +16114,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=3&sn=2ffef8173d9075cd1afc387bf35860d1": "谷歌 AI Big Sleep 立大功！成功阻止 SQLite 零日漏洞攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483901&idx=1&sn=584c0ed15e48cd1b6b2844170a747f22": "【CVE-2024–31317】提权漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496792&idx=1&sn=1a89dc1a57debe1bcc662fc35fb66c99": "中科天齐团队参加FSE 2025，提出基于多对象类型状态分析的重复漏洞检测新方法",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463279&idx=1&sn=ed9a3d6766250120a7b315fdcbf9a117": "CNNVD关于Oracle多个安全漏洞的通报"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463279&idx=1&sn=ed9a3d6766250120a7b315fdcbf9a117": "CNNVD关于Oracle多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=1&sn=65722e141134d410b44b7a3bb6536ff5": "【高危漏洞预警】Oracle WebLogic Server 未授权访问漏洞(CVE-2025-30762)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490457&idx=2&sn=b4484c612e2941a3be416a7542dd457d": "【高危漏洞预警】VMware产品多个高危漏洞"
 }
