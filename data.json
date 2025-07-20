@@ -16180,5 +16180,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483934&idx=1&sn=d5857143ae8cc3a4efc5a0e53ced58cf": "东胜物流软件 WmsZXFeeGridSource.aspx SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMjQ0MTk1OQ==&mid=2247484131&idx=1&sn=0606b9a86fd8c899d2034812d3b44c1b": "SQL注入(0day)||\"延时\"bypass",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489623&idx=1&sn=35978a7efb9a7ed2dffcccade99bc7e2": "你从未听说过的最流行调查软件中的远程代码执行漏洞 (RCE)",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070725&idx=3&sn=0ed096ca126a498dcb6caff13372e355": "【安全圈】黑客利用 Apache HTTP 服务器漏洞，部署 Linuxsys 加密货币挖矿程序"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070725&idx=3&sn=0ed096ca126a498dcb6caff13372e355": "【安全圈】黑客利用 Apache HTTP 服务器漏洞，部署 Linuxsys 加密货币挖矿程序",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493495&idx=1&sn=791bebc6faa651cc3c585c2f5f481d21": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486580&idx=1&sn=4a46124374634e6079ca78838944ca0f": "记一次项目中把验证码漏洞从低危变成严重漏洞的方式",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487355&idx=1&sn=9200bae9ae923d78620237011b33f376": "渗透测试水漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501013&idx=1&sn=420fc5b4e581e4d2936021ed3fd6c4ee": "【严重漏洞】微信客户端远程代码执行漏洞，陌生聊天记录不要点击"
 }
