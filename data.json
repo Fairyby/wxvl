@@ -16187,5 +16187,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247501013&idx=1&sn=420fc5b4e581e4d2936021ed3fd6c4ee": "【严重漏洞】微信客户端远程代码执行漏洞，陌生聊天记录不要点击",
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483950&idx=1&sn=970c288f654adcdc1315375a64c0b374": "汉王e脸通综合管理平台 exportResourceByFilePath.do 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=2&sn=f472eeedc4d17f52b659a903246f212e": "CVE-2025-48799｜Windows Update 服务本地权限提升漏洞（POC）",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=2&sn=de6210801879808ea31306489a217bbf": "漏洞预警 | 大华ICC智能物联综合管理平台命令注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493769&idx=2&sn=de6210801879808ea31306489a217bbf": "漏洞预警 | 大华ICC智能物联综合管理平台命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184307&idx=1&sn=7caac1a81cfffb4dba7ed37940420255": "新漏洞又扎堆？AI：已锁定资产！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=2&sn=4d9b5a33631dfe30cdde65271ea9a153": "Broadcom修复Pwn2Own Berlin 2025中被利用的VMware高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=1&sn=050b8e30630112c924e35a27ee30ecd3": "【安全圈】赶快升级！微信Windows端安全漏洞曝光 黑客可执行远程代码"
 }
