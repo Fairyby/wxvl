@@ -16221,5 +16221,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484521&idx=1&sn=9ee8b714f11d357e001eb697832c9521": "AI 自主调用 BurpSuite 完成漏洞自动化检测",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=1&sn=34418dc2e46f79efadfa931f71df0600": "CVE-2023-4069：Maglev图建立阶段的一个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTUwNjgxOQ==&mid=2247484400&idx=1&sn=e831c59dacc0e92729b437568f87437c": "从一次waf绕过来学习.Net JavaScriptDeserialize反序列化漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500133&idx=2&sn=62ace6788784f0f92b865f1ffcc6e2b4": "国内最专业、最全面的 [ .NET 代码审计 ] 体系化视频学习课程"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500133&idx=2&sn=62ace6788784f0f92b865f1ffcc6e2b4": "国内最专业、最全面的 [ .NET 代码审计 ] 体系化视频学习课程",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611495&idx=2&sn=3d0e35264169c731d967995d18dd84e9": "7-Zip曝出两个可致内存损坏和拒绝服务的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494434&idx=1&sn=f85a9125e3a2b4c7eb1bf4c737ee71d2": "契约锁pdfverifier RCE攻防绕过史"
 }
